@@ -1,0 +1,13 @@
+FROM microsoft/dotnet:2.1-sdk
+EXPOSE 4020 4021
+RUN Invoke-WebRequest -OutFile c:\rtools_setup_x64.exe -Uri http://download.microsoft.com/download/1/2/2/1225c23d-3599-48c9-a314-f7d631f43241/rtools_setup_x64.exe;
+RUN & 'c:\rtools_setup_x64.exe' /install /quiet
+WORKDIR /src
+COPY ["RevolutionGolf.PayPalListener/RevolutionGolf.PayPalListener.csproj", "RevolutionGolf.PayPalListener/"]
+RUN dotnet restore "RevolutionGolf.PayPalListener/RevolutionGolf.PayPalListener.csproj"
+COPY . .
+WORKDIR "/src/RevolutionGolf.PayPalListener"
+RUN dotnet build "RevolutionGolf.PayPalListener.csproj" -c Release -o /app && \
+	dotnet publish "RevolutionGolf.PayPalListener.csproj" -c Release -o /app && \
+	rm /src -f -r
+ENTRYPOINT ["dotnet", "/app/RevolutionGolf.PayPalListener.dll"]

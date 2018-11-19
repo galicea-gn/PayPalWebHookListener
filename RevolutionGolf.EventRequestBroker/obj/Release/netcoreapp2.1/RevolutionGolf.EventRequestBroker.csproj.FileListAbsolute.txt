@@ -1,0 +1,12 @@
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\bin\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.deps.json
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\bin\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.dll
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\bin\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.pdb
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\bin\Release\netcoreapp2.1\RevolutionGolf.EventDto.dll
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\bin\Release\netcoreapp2.1\RevolutionGolf.EventDto.pdb
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.csprojAssemblyReference.cache
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.csproj.CoreCompileInputs.cache
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.AssemblyInfoInputs.cache
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.AssemblyInfo.cs
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.csproj.CopyComplete
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.dll
+C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventRequestBroker\obj\Release\netcoreapp2.1\RevolutionGolf.EventRequestBroker.pdb

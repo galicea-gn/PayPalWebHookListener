@@ -1,8 +1,0 @@
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\bin\Debug\netcoreapp2.1\RevolutionGolf.EventDto.deps.json
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\bin\Debug\netcoreapp2.1\RevolutionGolf.EventDto.dll
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\bin\Debug\netcoreapp2.1\RevolutionGolf.EventDto.pdb
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\obj\Debug\netcoreapp2.1\RevolutionGolf.EventDto.csproj.CoreCompileInputs.cache
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\obj\Debug\netcoreapp2.1\RevolutionGolf.EventDto.AssemblyInfoInputs.cache
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\obj\Debug\netcoreapp2.1\RevolutionGolf.EventDto.AssemblyInfo.cs
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\obj\Debug\netcoreapp2.1\RevolutionGolf.EventDto.dll
-C:\dev\Source\revolutiongolf-PayPalListener\RevolutionGolf.EventDto\obj\Debug\netcoreapp2.1\RevolutionGolf.EventDto.pdb
